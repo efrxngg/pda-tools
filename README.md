@@ -1,10 +1,12 @@
-# PDA - TOOLS
+# PDA Tools
 
-Repositorio creado con el fin de crear una interfaz grafica de utileria para el proyecto de PDA
+Este repositorio está diseñado para desarrollar una interfaz gráfica de utilidad para el proyecto PDA. Utilizamos las siguientes tecnologías y bibliotecas:
 
-Mediante el uso de las siguientes tecnologias y librearias:
+- Node.js
+- Vite
+- React
+- TypeScript
 
-* Node
-* Vite
-* React
-* TypeScript
+El despliegue se realiza a través de GitHub Pages.
+
+by [efrxngg](https://efrxngg.github.io)
